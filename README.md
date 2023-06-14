@@ -2,9 +2,7 @@
 
 This is a command-line tool that extracts frames from a video file and converts them into an ASCII art video. The resulting video is created by overlaying ASCII characters on the frames of the original video.
 
-|              caption1               |                    caption2                     |
-| :---------------------------------: | :---------------------------------------------: |
-| <video src='input.mp4' width=1080/> | <video src='ascii_video_input.mp4' width=1080/> |
+https://github.com/Rahul-learner/ascii_video_maker/assets/66640990/23898188-8985-4ebd-9959-0a17fb88932f
 
 ## Prerequisites
 
